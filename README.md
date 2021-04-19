@@ -1,2 +1,2 @@
 # DevQuiz-APP
- Mobile App developed in NLW 5. 
+ Mobile App developed at NLW 5. 
